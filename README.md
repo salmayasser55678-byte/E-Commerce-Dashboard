@@ -29,6 +29,3 @@ _​Data cleaning & Modeling
 _pivot tables& Advanced charts
 
 
-•​Tools & Skills Used:
-_​Data cleaning & Modeling 
-_pivot tables& Advanced charts
