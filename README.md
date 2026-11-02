@@ -31,12 +31,12 @@ This project addresses several key business questions:
 
 ## 4. Key Performance Indicators (KPIs)
 
-Total Revenue : $64,847,565 
-Total Customers : 12,136 
-Total Quantity Sold : 109,711
-Total Orders : 20,000 
-Purchase Frequency : 1.6 
-Churned Customers : 8,806 
+**.**Total Revenue : $64,847,565 
+**.**Total Customers : 12,136 
+**.**Total Quantity Sold : 109,711
+**.**Total Orders : 20,000 
+**.**Purchase Frequency : 1.6 
+**.**Churned Customers : 8,806 
 
 ## 5. Analysis & Key Findings
 
